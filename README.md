@@ -1,4 +1,3 @@
-#<img width="1256" height="833" alt="image" src="https://github.com/user-attachments/assets/252995b6-4790-4bde-9a27-4b33fa23410f" />
 Solopreneur AI OS & China Direct Sourcing Intelligence Vaults (2026 Edition) 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
